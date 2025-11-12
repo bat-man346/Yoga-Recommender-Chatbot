@@ -1,0 +1,5 @@
+{
+  "name": "Yoga Chatbot",
+  "description": "An AI-powered Yoga chatbot to answer your questions about yoga poses, philosophy, and well-being using Gemini-2.5-flash.",
+  "requestFramePermissions": []
+}
